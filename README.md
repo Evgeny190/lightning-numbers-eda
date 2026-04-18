@@ -18,8 +18,7 @@ This project demonstrates how to:
 - Jupyter Notebook
 
 ## Files
-- `EDA_structuring_with_Python.ipynb` — main notebook with the full analysis
-- `dataset.csv` — source dataset used in the notebook
+- `lightning_strikes_data_eda.ipynb` — main notebook with the full analysis
 
 ## Key steps
 1. Load the dataset
